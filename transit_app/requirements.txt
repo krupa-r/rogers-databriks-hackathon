@@ -1,3 +1,0 @@
-flask
-databricks-sql-connector
-databricks-sdk
